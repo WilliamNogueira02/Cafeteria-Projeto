@@ -1,0 +1,48 @@
+TRABALHO DE ANÁLISE DE SISTEMAS
+Integrantes do grupo: Rui, Giovana, Marlon e Joaquim
+
+Empresa de Café, lancheria e confeitaria, com serviço de delivery
+Nome: 				Café Aroma
+Tipo: 				Física e Delivery
+Horário de Funcionamento:	Horário Comercial
+Plataforma Digital:		Contato Whatsapp, IFood
+
+	Site
+-Design rústico, natural
+-Menu com preços, ingredientes e imagens
+-Atendimento com integração IA
+
+	Aplicativo Interno.
+-Gerenciamento e organização interna de dados, recursos e controle financeiro
+-Registro e histórico de pedidos e vendas, com relatório de balanço geral
+-Registro de estoque, mercadoria e fornecedores. dividido por nome e quantia 
+-Agenda interna
+-Agendamento de mesa
+-Opção para que o cliente possa solicitar o atendimento.
+-Registro de pedidos em aberto, aparecendo em tempo real.
+-Historico de Clientes, com dados e perfil
+
+	Clientes
+-Nome
+-CPF
+-Telefone
+-E-mail
+-Endereço
+-CEP
+	Produtos
+-Nome
+-Preço
+-Quantidade
+-Peso
+-Disponibilidade
+	Delivery
+-Descrição do serviço
+-Valor
+-Tempo de Entrega
+	Vendas
+-CPF
+-Produto
+-Quantidade
+-Valor
+
+
